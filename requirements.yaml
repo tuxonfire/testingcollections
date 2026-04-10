@@ -1,0 +1,5 @@
+---
+collections:
+  - name: ansible.platform
+  - name: ansible.hub
+  - name: ansible.controller
